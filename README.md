@@ -1,5 +1,3 @@
-## About Laravel
-
 A Todo Task App build using react and laravel.
 
 ### 1. Clone the repository and install dependencies
